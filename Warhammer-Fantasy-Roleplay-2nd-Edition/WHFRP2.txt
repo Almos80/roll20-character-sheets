@@ -1,0 +1,26 @@
+DESCRIPTION
+This is a character sheet for use on Roll20.net with the 2nd edition of the Warhammer Fantasy roleplaying game. The sheet is designed to be usable by all Roll20 users regardless of subscription level. I created this sheet for my own campaign because I wanted a comprehensive and easy-to-use sheet with as many features as I could manage, such as roll templates and the ability to show career advances.
+
+DISCLAIMER
+If you are updating an existing campaign with this sheet I highly recommend you duplicate your campaign and use that to copy data over. I also recommend starting each character from a fresh sheet.
+
+FEATURES
+-Roll templates.
+-A prompt for difficulty modifiers for each test.
+-Individual tabs for core stats, background information, career tracks, weapons, armor, spellbook, and inventory.
+-Separate inputs for different parts of characteristics, showing starting values, talent bonuses, career advances, and purchased increases.
+-Custom skills, variable characteristic for Intimidate skill, option for GM whisper with each skill roll.
+-Support for custom actions, useful for monster abilities, although it requires some work.
+-Support for up to five careers.
+-Separate attack and damage rolls.
+-Automatic hit location calculation (which is not RAW because it uses a roll separate from the attack roll).
+-Support for advanced customizable armor.
+-Spells with prompts for bonuses from ingredient and channeling.
+-Equipment with gold and weight automatically calculated.
+
+WISH LIST
+-Translation to German.
+-Support for additional careers.
+
+SPECIAL THANKS
+This character sheet is inspired by a D&D 5e shaped character sheet by Kryx (user ID 277007), and uses his work as a basis for the CSS behind this sheet.
