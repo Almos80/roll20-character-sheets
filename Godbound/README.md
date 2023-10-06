@@ -7,6 +7,7 @@ This sheet is created for use in Godbound games on Roll20, based on the Characte
 - v3.3
   - Minor
     * Attacks now do not require inputting target's AC. Instead, the rolltemplate displays the AC the attack would hit. New calculation is "20 - roll - modifiers." This makes combat faster by removing one step in the sheet's rolling process.
+- v3.2
   - Minor
     * Add missing Effort entry for Invocations
     * New Misc Effort entry for healing and other effects
